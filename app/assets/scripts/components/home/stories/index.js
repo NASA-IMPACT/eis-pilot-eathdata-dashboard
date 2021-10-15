@@ -1,5 +1,5 @@
-import storyBoreal from './story-boreal.js';
+import storyGlobal from './story-global.js';
 
 export default [
-  storyBoreal
+  storyGlobal
 ];
